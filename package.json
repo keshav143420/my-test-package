@@ -1,0 +1,22 @@
+{
+  "name": "@all-code-rhythm/my-test-package",
+  "version": "1.0.0",
+  "description": "my test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keshav143420/my-test-package.git"
+  },
+  "keywords": [
+    "first"
+  ],
+  "author": "keshava kotri <keshav143420@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keshav143420/my-test-package/issues"
+  },
+  "homepage": "https://github.com/keshav143420/my-test-package#readme"
+}
